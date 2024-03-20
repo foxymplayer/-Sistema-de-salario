@@ -1,1 +1,1 @@
-# -Sistema-de-sal-rio
+# -Sistema-de-salario
