@@ -1,3 +1,10 @@
+# 📂Indice
+* [Funcionalidades](#funcionalidades)
+* [Tecnologias ultilizadas](#tecnologias-utilizadas)
+* [Instruçãoes de uso](#instru%C3%A7%C3%B5es-de-uso)
+* [Estrutura do Projeto](#estrutura-do-projeto)
+* [Próximos Passos](#pr%C3%B3ximos-passos)
+
 # Calculadora de Salário
 
 Este é um simples aplicativo web desenvolvido para calcular o salário de um vendedor com base em suas metas de vendas semanais e mensais.
